@@ -5,27 +5,27 @@
     android:orientation="vertical">
 
     <EditText
-        android:id="@+id/number1"
+        android:id="@+id/number5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName" />
 
     <EditText
-        android:id="@+id/number2"
+        android:id="@+id/number6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName" />
 
     <Button
-        android:id="@+id/add"
+        android:id="@+id/gob"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="더하기" />
+        android:text="곱하기" />
 
     <TextView
-        android:id="@+id/result1"
+        android:id="@+id/result3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="TextView" />
